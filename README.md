@@ -2,7 +2,7 @@
 
 Maker Media GmbH
 *** 
-![Aufmacher](https://github.com/MakeMagazinDE/Nadeltimer/blob/main/aufm_gh.JPG)
+![Aufmacher](https://github.com/MakeMagazinDE/Nixie-Uhr-mit-ESP32/blob/main/aufm_gh.JPG)
 
 # Nixie-Uhr-mit-ESP32
 
